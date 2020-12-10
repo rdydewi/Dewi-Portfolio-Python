@@ -62,8 +62,10 @@ Feature Extraction is a process in PCA that converts raw data into several other
 K-Means Clustering is one of the popular clustering algorithms. The purpose of this algorithm is to find groups (clusters) within the given data. So we can said that K-Means is a very simple algorithm that groups data into a number of K clusters. This following is a comparison of the scatter plot between raw data and data that has been grouped using the K-Means method.
 
 
-| ![](/images/p14.png) | ![](/images/p15.png) | 
-| ----------- | ----------- | 
+![](/images/p14.png)
+
+
+![](/images/p15.png)
 
 
 
